@@ -10,7 +10,7 @@ import requests
 wiki_wiki = wikipediaapi.Wikipedia('https://en.wikipedia.org/w/api.php')
 
 # Set user-agent globally
-wiki_wiki.user_agent = "MyWikiBot/1.0 (https://github.com/Biblio/Biblio)"
+wiki_wiki.user_agent = "Biblio (https://github.com/Melvynwastaken/chatbot_Biblio)"
 
 # Load predefined responses from a JSON file
 with open('responses.json', 'r', encoding='utf-8') as file:
@@ -194,6 +194,10 @@ def chatbot_response(user_input):
             return get_wikipedia_summary(query)
         else:
             return "Please specify what you want to search for."
+    
+    elif input_lower.startswith("hello") or input_lower.startswith("hi") or input_lower.startswith("hey"):
+        return random.choice(responses["greetings"])
+    
     else:
         tokens = input_lower.split()
         response = searchPAList(tokens)
@@ -215,7 +219,7 @@ if __name__ == "__main__":
         user_input = input("You: ").strip()
         
         if user_input.lower() in ["quit", "exit", "bye"]:
-            print("Biblio:", responses["bye"])
+            print("Biblio:", responses["goodbye"])
             break
         
         response = chatbot_response(user_input)
