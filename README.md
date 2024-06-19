@@ -13,7 +13,7 @@ Biblio is a Python-based chatbot that uses Wikipedia API to provide information 
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/Biblio.git
+git clone https://github.com/Melvynwastaken/chatbot_Biblio
 
 2. Install dependencies:
 pip install -r requirements.txt
