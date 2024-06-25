@@ -1,6 +1,6 @@
 # Biblio Chatbot
 
-Biblio is a Python-based chatbot that uses Wikipedia API to provide information and can respond to specific queries based on predefined patterns.
+Biblio is a Python-based chatbot that integrates with the Wikipedia API to provide information and respond to specific queries based on predefined patterns.
 
 ## Features
 
@@ -11,24 +11,25 @@ Biblio is a Python-based chatbot that uses Wikipedia API to provide information 
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 git clone https://github.com/Melvynwastaken/chatbot_Biblio
 
-2. Install dependencies:
-pip install -r requirements.txt
+cd chatbot_Biblio
 
+2. **Install dependencies:**
+
+pip install -r requirements.txt
 
 ## Usage
 
-1. Ensure you have Python 3.x installed on your system.
+1. **Ensure Python 3.x is installed on your system.**
 
-2. Run the chatbot:
+2. **Run the chatbot:**
 
 python biblio_chatbot.py
 
-
-3. Interaction:
+3. **Interaction:**
 - Type "search for [topic]" to search for information on Wikipedia.
 - Ask specific questions like "When was Albert Einstein born?" or "What is the polar radius of Earth?".
 - Greet the chatbot with "hello", "hi", or "hey" to receive a friendly response.
@@ -44,4 +45,4 @@ Contributions are welcome! If you'd like to contribute to Biblio Chatbot, please
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Melvynwastaken/chatbot_Biblio/blob/main/LICENSE) file for details.
