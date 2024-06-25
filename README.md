@@ -31,7 +31,7 @@ python biblio_chatbot.py
 
 3. **Interaction:**
 - Type "search for [topic]" to search for information on Wikipedia.
-- Ask specific questions like "When was Albert Einstein born?" or "What is the polar radius of Earth?".
+- Ask specific questions like "What is the polar radius of Earth?".
 - Greet the chatbot with "hello", "hi", or "hey" to receive a friendly response.
 - Type "bye" to exit the chatbot.
 
