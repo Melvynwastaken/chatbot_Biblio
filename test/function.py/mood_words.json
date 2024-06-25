@@ -1,0 +1,26 @@
+{
+    "positive_words": [
+      "affectionate", "amazing", "awesome", "beautiful", "blissful",
+      "brilliant", "cheerful", "charming", "confident", "delightful",
+      "eager", "ecstatic", "elated", "energetic", "enthusiastic",
+      "fabulous", "fantastic", "friendly", "generous", "glorious",
+      "graceful", "grateful", "happy", "healthy", "incredible",
+      "inspirational", "joyful", "kind", "lively", "lovely",
+      "magnificent", "marvelous", "optimistic", "outstanding", "peaceful",
+      "pleasant", "radiant", "remarkable", "spectacular", "splendid",
+      "stunning", "successful", "terrific", "thrilled", "trustworthy",
+      "vibrant", "wonderful", "zealous", "zestful"
+    ],
+    "neutral_words": [
+      "average", "balanced", "common", "decent", "fair", "fine",
+      "medium", "moderate", "normal", "ordinary", "regular", "standard",
+      "typical", "usual"
+    ],
+    "negative_words": [
+      "angry", "annoyed", "anxious", "awful", "bad", "bored",
+      "confused", "depressed", "disappointed", "disgusted", "distressed",
+      "frustrated", "gloomy", "grumpy", "horrible", "hurt", "irritated",
+      "miserable", "sad", "terrible", "unhappy", "upset", "worried"
+    ]
+  }
+  

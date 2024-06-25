@@ -1,0 +1,71 @@
+{
+    "greetings": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I do for you?",
+        "Hey! How's it going?",
+        "Good day! How may I help?",
+        "Hi! How are you doing?"
+    ],
+    "goodbye": [
+        "Goodbye! Have a great day!",
+        "Bye! Take care!",
+        "See you later!",
+        "Until next time!",
+        "Have a good one!"
+    ],
+    "thanks": [
+        "You're welcome!",
+        "No problem!",
+        "Anytime!",
+        "Glad to help!",
+        "You bet!",
+        "Sure thing!"
+    ],
+    "fallback": [
+        "I'm sorry, I didn't quite catch that.",
+        "Could you please repeat that in a different way?",
+        "I'm still learning. Could you say that another way?",
+        "I'm not sure I understand. Can you clarify?"
+    ],
+    "introduction": [
+        "Hello! I'm your friendly chatbot.",
+        "Hey there! I'm here to assist you.",
+        "Hi! I'm the chatbot. How can I assist today?",
+        "Greetings! I'm ready to help."
+    ],
+    "help": [
+        "How can I assist you?",
+        "What do you need help with today?",
+        "Need assistance with something specific?",
+        "How can I be of service?"
+    ],
+    "about": [
+        "I'm a chatbot here to help answer your questions.",
+        "I'm an AI assistant programmed to assist you.",
+        "I'm here to provide information and help."
+    ],
+    "mood": {
+        "positive": [
+            "I'm glad to hear that! How can I assist you?",
+            "That's great! What can I do for you today?",
+            "Awesome! How can I help you?"
+        ],
+        "neutral": [
+            "Alright, how can I assist you?",
+            "Okay, what do you need help with?",
+            "Sure, how can I be of service?"
+        ],
+        "negative": [
+            "I'm sorry to hear that. How can I help?",
+            "Oh no! How can I assist you today?",
+            "I'm here to help. What do you need?"
+        ]
+    },
+    "jokes": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Why don’t skeletons fight each other? They don’t have the guts.",
+        "Why did the math book look sad? Because it had too many problems.",
+        "Why was the computer cold? Because it left its Windows open!"
+    ]
+}
